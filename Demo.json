@@ -1,3 +1,5 @@
-[{"url":"https://google.com",
+{
+  "email":[{"url":"https://google.com",
  "subjectLine":"Demo Subject"
 }]
+}

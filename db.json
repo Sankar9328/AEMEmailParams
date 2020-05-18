@@ -1,16 +1,9 @@
 {
-  "email":[{
-  "homebuyer":[{"url":"https://google.com",
- "subjectLine":"Demo Subject"
-}],
-  "holiday":[{"url":"https://google.com",
- "subjectLine":"Demo Subject"
-}],
-  "newsletter":[{"url":"https://google.com",
- "subjectLine":"Demo Subject"
-}],
-  "whybuy":[{"url":"https://google.com",
- "subjectLine":"Demo Subject"
-}]
-    }]
+  "Why Buy": [
+    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/do-you-know-buying-can-be-good", "subjectLine": "Do you know buying can be good?" }
+	{ "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/easier-than-you-think.html", "subjectLine": "Easier than you think" }
+  ],
+  "Refinance": [
+    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/refinance/now-is-the-time-to-refinance.html", "subjectLine": "Now is the time to refinance" }
+  ]
 }

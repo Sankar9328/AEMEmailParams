@@ -1,5 +1,14 @@
 {
-  "email":[{"url":"https://google.com",
+  "homebuyer":[{"url":"https://google.com",
+ "subjectLine":"Demo Subject"
+}],
+  "holiday":[{"url":"https://google.com",
+ "subjectLine":"Demo Subject"
+}],
+  "newsletter":[{"url":"https://google.com",
+ "subjectLine":"Demo Subject"
+}],
+  "whybuy":[{"url":"https://google.com",
  "subjectLine":"Demo Subject"
 }]
 }
